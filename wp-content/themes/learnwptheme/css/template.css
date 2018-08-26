@@ -1,4 +1,9 @@
-.top-bar {
-    background: red;
-    height: 70px;
+.social-media-icons {
+    background: #C70039;
+    height: 30px;
+}
+
+.search {
+    background: #3AB459;
+    height: 30px;
 }

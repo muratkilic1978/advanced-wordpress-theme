@@ -19,3 +19,10 @@ function load_scripts(){
 
 add_action('wp_enqueue_scripts','load_scripts');
 
+register_nav_menus(
+    array(
+        'primary_menu' => 'Primary Menu',
+    )
+
+);
+
