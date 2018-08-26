@@ -7,3 +7,7 @@
     background: #3AB459;
     height: 30px;
 }
+
+.main-menu ul li {
+    display: inline;
+}
