@@ -3,13 +3,13 @@
        
     <div class="content-area">
         <main>
-            <section class="slide"></section>
-            <section class="services"></section>
+            <section class="slide">Slide</section>
+            <section class="services">Services</section>
             <section class="middle-area">
-                <aside class="sidebar"></aside>
-                <div class="news"></div>
+                <aside class="sidebar">Sidebar</aside>
+                <div class="news">News</div>
             </section>
-            <section class="map"></section>
+            <section class="map">Map</section>
         </main>
     </div>
     
